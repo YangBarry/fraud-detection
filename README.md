@@ -4,7 +4,7 @@ This repository is for one course project, where I played around fraud loan data
 
 ## Project Description
 
-The project is designed to farmilirize people with data cleanning, the basic machine learning algorithms, and neural networks. It is based on a fraud loan dataset, which is highly unbalanced.
+The project is designed to farmilirize people with data cleanning, the implementation of basic machine learning algorithms, and neural networks. It is based on a fraud loan dataset, which is highly unbalanced.
 
 I did the predition both by machine learning algorithms and neural networks. And apparently, it turned out that neural networks performs much better in predicting the fraud loans in terms whatever metrics being used, such as AUROC score or the self-defined losses.
 
@@ -12,7 +12,7 @@ I did the predition both by machine learning algorithms and neural networks. And
 
 The dataset is availabal on Google Drive through the following link: <https://drive.google.com/drive/folders/1WOo7QX8BZGE5E2EsvDSByXuzeMrwrIfP?usp=sharing>
 
-In general, the dataset is highly unbalanced, with less than 5% of loans being fraud. I will describe each dataset here in this section.
+Overall, the dataset is highly unbalanced, with less than 5% of loans being fraud. I will describe each dataset here in this section.
 
 Original Dataset
 
@@ -30,3 +30,8 @@ The following datasets are generated during the trainning stage after I did all 
 - submission_processed.csv: processed test set without label
 
 ## Code
+
+- dataset_exploration.ipynb: this notebook contains code for data exploration
+- notebooks ended with 'my_code': they are code written by myself
+- notebooks ended with 'good_example': they are some good examples shared by students in the class
+- notebooks ended with 'ml'/'nn': ml refers to machine learning and nn refers to neural networks
