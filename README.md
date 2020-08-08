@@ -35,3 +35,8 @@ The following datasets are generated during the trainning stage after I did all 
 - notebooks ended with 'my_code': they are code written by myself
 - notebooks ended with 'good_example': they are some good examples shared by students in the class
 - notebooks ended with 'ml'/'nn': ml refers to machine learning and nn refers to neural networks
+
+## Future Update
+
+- Modify my machine learning model according to peers' code, in terms of data cleaning and tuning.
+- Modify my neural network model according to peers' code, in terms of data cleaning and tuning.
