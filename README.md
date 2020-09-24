@@ -36,6 +36,11 @@ The following datasets are generated during the trainning stage after I did all 
 - notebooks ended with 'good_example': they are some good examples shared by students in the class
 - notebooks ended with 'ml'/'nn': ml refers to machine learning and nn refers to neural networks
 
+## Things to Learn from Peers Code
+
+- fraud_detection_good_example_ml_1: This student introduced learning curve to tune the hyperparammeters, which makes it visible.
+- fraud_detection_good_example_ml_2: This student introduced 'FeatureSelector' package to select features for training.
+
 ## Future Update
 
 - Modify my machine learning model according to peers' code, in terms of data cleaning and tuning.
